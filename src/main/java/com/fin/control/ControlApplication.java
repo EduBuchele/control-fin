@@ -1,4 +1,4 @@
-package com.fintech.control;
+package com.fin.control;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
